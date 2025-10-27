@@ -5,15 +5,15 @@
 
 ## What I Learned
 In this assignment, I learned:
-- [Describe 2-3 key things you learned about GitHub]
-- [How Issues help teams collaborate]
-- [Why documentation matters in open source projects]
+- GitHub structure
+- Issues help teams create a better product by evaluating others work
+- Documentation helps to communicate with others what is being developed and why
 
 ## Challenges and Solutions
-[Describe 1-2 challenges you faced and how you overcame them. Examples: creating folders in GitHub, understanding the two-repository workflow, writing markdown]
+Basic using Github was a significant challenge for me. Searching the internet for definitions helped a lot. I found StackOverflow particularly helpful.
 
 ## Connection to My GIS Career
-[Explain in 2-3 sentences how GitHub skills will help you in your GIS career. Think about portfolio building, collaboration, contributing to open source projects]
+The skills I worked on in this GitHub project will enhance my GIS career by enhancing my communication and documentation skills.
 
 ## Open Source Workflow Understanding
 Creating my own repository (`hello-gist604b`) mirrors the open source contribution process. In real projects, developers fork existing repositories, make improvements, and submit contributions - similar to how I created this repository and linked it to the assignment system.
